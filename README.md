@@ -10,3 +10,7 @@ It contains transactions made by credit cards in September 2013 by European card
 > ⚠️ Note: The `creditcard.csv` file is not included in this repository because it exceeds GitHub's 100MB file size limit.
 
 To run the project, download the dataset manually from Kaggle and place it in the project folder.
+
+## 🌐 Live Demo
+
+Check out the deployed Streamlit app 👉 [Click here to open](https://creditcardfrauddetection-gnvktwql6rz376jgwx8u4y.streamlit.app/)
